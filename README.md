@@ -1,2 +1,2 @@
-# example of the simple cube in the AR
-## https://isaac-py.github.io/AR-cube/
+# Arc Zoellner Art Center
+## [https://isaac-py.github.io/AR-cube/](https://at727.github.io/AR-cube/)
